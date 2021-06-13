@@ -1,0 +1,66 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+}
+
+.forms {
+  margin: 10px;
+  padding: 10px;
+}
+
+#submit {
+  width: 100px;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+label p {
+  margin: 10px 0;
+}
+
+input [type="text"] {
+  width: 300px;
+}
+
+label select {
+  width: 155px;
+} */
+
+body {
+  max-width: 40%;
+  margin: 30px auto;
+  /* background-color: antiquewhite; */
+}
+
+button {
+  margin: 10px 0;
+}
+
+header,
+main {
+  background-color: aliceblue;
+  border-radius: 10px;
+  box-shadow: 5px 10px rgb(192, 189, 189);
+}
+
+main {
+  padding: 25px;
+}
+
+#exp {
+  margin: 15px 0;
+}
+
+#form1 p {
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+
+#form2 p {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
